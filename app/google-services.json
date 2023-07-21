@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370216306606",
+    "project_id": "conversor-de-unidades-38ad3",
+    "storage_bucket": "conversor-de-unidades-38ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370216306606:android:81bb14ab951a53d2b02a3f",
+        "android_client_info": {
+          "package_name": "com.example.conversordeunidades"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370216306606-mcju5rboi4aii6ljaje4ljp2p4qebv10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_TLrg2pbtmIy4NEsYKSRxh5W64KSptAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370216306606-mcju5rboi4aii6ljaje4ljp2p4qebv10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
